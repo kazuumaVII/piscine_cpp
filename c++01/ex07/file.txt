@@ -1,0 +1,14 @@
+L'Acide Gama 1 Amino-Butirique (GABA) se trouve dans les neurone 1s et dans les cellules gliales. Le précurseur est la glutamine, qui sous l’action de la glutaminase, va donner du GABA en perdant du CO2. L’enzyme qui participe à cette décarboxylation est le glutamate décarboxylase, ou GAD. Elle ne peut être fonctionnelle qu’en présence du coenzyme PLP (phosphate de piridoxal, ou vitamine B6).
+Pour inhiber la synthèse du GABA, on pourra soit bloquer la GAD (grâce à l’allyglycérine ou la cyclosérine), ou alors on pourra bloquer le co-enzyme.
+Il y a deux  1 forme de GAD : GAD 65 et GAD 67, synthétisées par deux gènes différents. La GAD 67 a une localisation somato-dendritique, elle peut être saturée in vivo par la vitamine B6. La production et la libération de GABA va alors être continue.
+La GAD 65 ne se trouve  1 que dans le soma. Elle n’a pas de saturation in vivo par la vitamine B6. La production et la libération de l'acide gama amino-butirique va être fonction de l’activité de la cellule.
+Une partie du GABA n’est pas utilisée comme 1 neurotransmetteur. On va le retrouver au niveau de la mitochondrie dans le cycle de Krebs.
+La libération se fait par exocytose. 1 Une partie du GABA peut être recapturée par le neurone ou la cellule gliale.
+Le GABA libéré dans la fente synaptique va être recapté par des transporteurs spécifiques sélectifs. GAT-1 et GAT-4 servent à la recapture par le neurone. GAT-2 et GAT-3 sont spécifiques de la cellule gliale, et donc vont permettre la recapture du GABA par la cellule gliale.
+8.4. Récepteurs et mécanismes d’action 1 1 1 1
+Il existe 1 trois types de récepteurs GABA. Le plus  1 célèbre est le récepteur GABA-A. Le récepteur GABA-B et le récepteur GABA-C ont été découverts plus récemment.
+Le récepteur GABA-A est 1 ionotropique. Il est couplé avec un canal chlore. La fixation du GABA sur le récepteur GABA-A provoque l’ouverture de ce canal chlore, ce qui provoque l’entrée de Cl- Dans la cellule, ce qui conduit à l’hyperpolarisation de la cellule. Ce récepteur est sensible à la bicuculine (antagoniste GABA), et insensible au baclophène (agoniste GABA).
+Le récepteur GABA-B est métabotropique. Il induit également une inhibition par action sur des canaux potassiques et calciques. Il est insensible à la bicuculine mais sensible au baclophène.
+Le récepteur GABA-C est insensible à la bicuculine et au baclophène. Lui aussi induit une inhibition.
+
+
